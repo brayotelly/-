@@ -1,4 +1,4 @@
-#-
+
  MindMate Harmony Space
 
 A gentle AI-powered companion that understands your emotions and supports your mental well-being.
